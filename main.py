@@ -52,7 +52,7 @@ if check():
 			message = template_file.substitute(PERSON_NAME=name.title())
 			msg['From'] = sent_by
 			msg['To'] = email
-			msg['Subject'] = 'This is a test'
+			msg['Subject'] = 'QUICK! Sign up for orientation now!'
 			msg.attach(MIMEText(message, 'plain'))
 			s.send_message(msg)
 		s.close()
