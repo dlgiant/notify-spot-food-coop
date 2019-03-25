@@ -2,5 +2,8 @@ Dear ${PERSON_NAME},
 
 There are spots in the food coop, register now!
 
+Go here now:
+https://ort.foodcoop.com/join/register
+
 Regards,
 Rick
