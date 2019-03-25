@@ -1,0 +1,6 @@
+Dear ${PERSON_NAME},
+
+There are spots in the food coop, register now!
+
+Regards,
+Rick
